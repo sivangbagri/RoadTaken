@@ -7,3 +7,5 @@ Controls:
 - Convectional Right and Left to move.
 - Enter to restart.
 - Space to Horn
+
+Dev- sivangbagri@gmail.com
